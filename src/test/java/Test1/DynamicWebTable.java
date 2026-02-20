@@ -56,9 +56,7 @@ public class DynamicWebTable {
 				List<WebElement> g = driver.findElements(By.xpath("//td[normalize-space()='Chrome']|//td[normalize-space()='Chrome']//td[contains(text(),'%')]"));
 			
 			}
-		}
-		
-		System.out.println("heyy");	
+		}	
 	
 	}
 
