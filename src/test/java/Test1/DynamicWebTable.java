@@ -59,9 +59,7 @@ public class DynamicWebTable {
 		}
 		
 		System.out.println("heyy");	
-		System.out.println("heyy");	
-		System.out.println("heyy");	
-		System.out.println("heyy");	
+	
 	}
 
 
